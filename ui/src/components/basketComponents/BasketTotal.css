@@ -1,0 +1,16 @@
+.basket-total {
+  background-color: rgb(221, 221, 221);
+}
+
+.total-price {
+  color: red;
+}
+
+.purchase-button {
+  background-color: red;
+  color: white;
+}
+
+.purchase-button:hover {
+  background-color: rgb(72, 0, 0);
+}

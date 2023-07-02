@@ -1,0 +1,61 @@
+.card-item {
+  height: 300px;
+  width: 400px;
+  border: 1px solid rgb(128, 128, 128);
+  display: flex;
+  align-items: center;
+  margin: 40px 10px 40px 20px;
+  flex-direction: column;
+  background-color: rgb(201, 197, 197);
+}
+
+.card-item-dark-mode {
+  background-color: rgb(20, 20, 20);
+  border: 1px solid rgb(52, 52, 52);
+}
+
+.card-item img {
+  width: fit-content;
+  height: 220px;
+
+  padding: 0px 20px 10px 10px;
+  margin-top: 15px;
+}
+
+.card-item h3 {
+  margin-top: 20px;
+  margin-left: 10px;
+}
+
+.card-item p,
+.card-item h3 {
+  display: inline-block;
+  vertical-align: middle;
+  color: black;
+}
+
+.item-content {
+  display: flex;
+  justify-content: space-between;
+
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+.burger-name {
+  margin-left: 5px;
+  font-size: 20px;
+}
+
+.burger-price {
+  margin-right: 5px;
+}
+
+.card-item-dark-mode p {
+  color: white;
+}
+
+.card-item-dark-mode h3 {
+  color: white;
+}

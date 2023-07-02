@@ -1,0 +1,57 @@
+.nav {
+  background-color: rgb(201, 197, 197);
+}
+
+.nav-dark-mode {
+  background-color: rgb(16, 18, 147);
+}
+
+.nav-links {
+  display: flex;
+  list-style: none;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.nav-links h1 {
+  margin-right: 2%;
+  margin-left: 0px;
+  float: right;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: black;
+  font-size: 1.5rem;
+  margin-top: 25px;
+}
+
+.about-us-dark-mode {
+  color: #019bbd;
+  font-size: 16px;
+  text-decoration: none;
+}
+
+.about-us {
+  font-size: 16px;
+  text-decoration: none;
+  color: #001aff;
+}
+
+.dark-mode {
+  background: none !important;
+  border: none;
+  color: #032900;
+}
+
+.dark-mode-dark-mode {
+  color: green;
+}
+
+.dark-mode:hover {
+  color: #001aff;
+}
+
+.dark-mode-dark-mode:hover {
+  background-color: wheat;
+}

@@ -1,0 +1,12 @@
+.basket-column {
+  background-color: rgb(103, 103, 103);
+  margin-left: 20px;
+  margin-right: 20px;
+  height: 80px;
+  padding: 10px;
+  color: white;
+}
+
+.basket-item {
+  background-color: rgb(205, 205, 205);
+}

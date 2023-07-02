@@ -1,0 +1,11 @@
+CheeseBurger, 70, ./foodPictures/cheeseburger.jpg
+Onion Rings, 30, ./foodPictures/onion_rings.jpg
+French Fries, 25, ./foodPictures/fries.jpg
+Chicken Burger, 60, ./foodPictures/chicken_burger.jpg
+Fizzy Drink, 20, ./foodPictures/fizzy_drink.jpg
+Water, 10, ./foodPictures/water.jpg
+Lemonade, 20, ./foodPictures/lemonade.jpg
+IceCream, 35, ./foodPictures/ice_cream.jpg
+Pizza Slice, 40, ./foodPictures/pizza_slice.jpg
+Chicken Legs, 50, ./foodPictures/chicken_legs.jpg
+Beef Burger, 45, ./foodPictures/beef_burger.jpg

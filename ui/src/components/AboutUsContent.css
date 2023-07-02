@@ -1,0 +1,17 @@
+.about-us-content div {
+  margin-left: 5px;
+}
+
+.hidden {
+  display: none;
+}
+
+.about-us-content {
+  background-color: rgb(201, 197, 197);
+  margin-top: 0px;
+  border-top: 1px solid #032900;
+}
+
+.about-us-added {
+  display: flex;
+}

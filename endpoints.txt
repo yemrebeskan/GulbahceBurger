@@ -1,0 +1,6 @@
+127.0.0.1:3001/api/v1/items/:id (get Item)
+127.0.0.1:3001/api/v1/items (post Item)
+http://127.0.0.1:3001/api/v1/items (get all items)
+127.0.0.1:3001/api/v1/carts (get basket)
+127.0.0.1:3001/api/v1/carts/:id (add to basket)
+127.0.0.1:3001/api/v1/carts/:id (remove from basket)
